@@ -15,7 +15,9 @@ This project aims to identify and group base stations with similar frame delay v
   - [Clustering Algorithms](#clustering-algorithms)
   - [Clustering Evaluation](#clustering-evaluation)
   - [Visualization](#visualization)
-- [Results and Inresults-and-insights)
+- [Results and Insights](#results-and-insights)
+
+
 
 
 ---
